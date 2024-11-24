@@ -1,1 +1,1 @@
-## Lyzer Project - Personalised Investment Portfolio
+## Project - Personalised Investment Portfolio
